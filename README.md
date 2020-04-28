@@ -1,8 +1,6 @@
-# Live Market Stock
+# Live Stock App using React
 
 Show realtime stock data in table and graphical chart format.
-
-![alt text](https://i.imgur.com/TghwTD4.png)
 
 ## Installation
 
@@ -13,8 +11,7 @@ Show realtime stock data in table and graphical chart format.
 
 ## Technology
 
-1. React-Redux / VanillaJS
+1. React / VanillaJS
 2. Websocket
 3. Html/css
 4. LocalStorage (for managing stock histoy)
-5. Highcharts (for displaying realtime charts)
